@@ -1,0 +1,6 @@
+schemaVersion: 1.0.0
+endpoints:
+- name: my-test-service
+  service:
+     port: 8000
+  type: REST
